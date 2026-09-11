@@ -1,10 +1,3 @@
-
-
-<!--
-**mrarjundarwade1710-commits/mrarjundarwade1710-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 🎓 Computer Engineering student at **MIT Academy of Engineering (MITAOE)**<br><br>🤖 Aspiring **Data Scientist | Machine Learning Engineer | AI Engineer | Generative AI Engineer**<br><br>🐍 Currently building strong skills in **Python, Data Science, Machine Learning, Deep Learning, SQL, and DSA**<br><br>🧠 Exploring **Generative AI, LLMs, RAG, LangChain, LangGraph, AI Agents, Agentic AI, Embeddings, and Vector Databases**<br><br>🚀 Passionate about **learning by building** and developing practical, real-world AI applications.<br><br>🎯 Focused on becoming an **industry-ready AI/ML professional** through continuous learning, problem-solving, projects, and hands-on implementation.<br>
 

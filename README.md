@@ -2,14 +2,7 @@
 
 ### 🚀 Aspiring Data Scientist | ML Engineer | AI Engineer | Generative AI Engineer
 
-<p align="left">
-  <a href="https://github.com/mrarjundarwade">
-    <img src="https://komarev.com/ghpvc/?username=mrarjundarwade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/mrarjundarwade">
-    <img src="https://img.shields.io/github/followers/mrarjundarwade?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
+Computer Engineering student passionate about **Data Science, Data Analytics, Machine Learning, Artificial Intelligence, Generative AI, Agentic AI, and Problem Solving.**
 
 ---
 
@@ -21,155 +14,262 @@
 
 🐍 Building strong foundations in **Python, Data Science, Machine Learning, Deep Learning, SQL, and Data Structures & Algorithms**
 
-🧠 Exploring **Generative AI, LLMs, RAG, LangChain, LangGraph, AI Agents, Agentic AI, Embeddings, and Vector Databases**
+📊 Interested in **Data Analytics, Exploratory Data Analysis, Statistics, Data Visualization, Business Intelligence, and Machine Learning**
 
-📊 Interested in **data analysis, machine learning, intelligent systems, and real-world AI applications**
+🧠 Exploring **Generative AI, Large Language Models, RAG, LangChain, LangGraph, AI Agents, Agentic AI, Embeddings, and Vector Databases**
 
-⚙️ Focused on learning how to build **end-to-end AI/ML applications**, from data and models to APIs and deployment
+⚙️ Interested in building **end-to-end AI/ML applications**, from data preprocessing and model development to APIs and deployment
 
-🧩 Regularly practicing **DSA and problem solving** to strengthen my programming fundamentals
+🧩 Practicing **Data Structures & Algorithms, LeetCode, C++, Java, and Python** to strengthen programming and problem-solving skills
 
 🚀 I believe in:
 
-**Learn → Understand → Implement → Build → Deploy → Explain**
+**Learn → Understand → Implement → Build → Deploy → Explain → Improve**
 
 🎯 My goal is to become an **industry-ready AI/ML professional** by continuously learning, building practical projects, and solving real-world problems.
 
 ---
 
-## 🧠 Currently Learning
+# 🧠 Currently Learning
 
-- 🐍 Python for Data Science & AI
-- 📊 Data Analysis & Exploratory Data Analysis
-- 📈 Statistics & Probability
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🧬 Generative AI & Large Language Models
-- 🔗 LangChain & LangGraph
-- 🤝 AI Agents & Agentic AI
-- 📚 RAG & Prompt Engineering
-- 🔢 Embeddings & Vector Databases
-- ⚡ FastAPI & Backend Development
-- 🗄️ SQL & PostgreSQL
-- 🧩 Data Structures & Algorithms
-- 🐧 Linux & Deployment
+## 📊 Data Science
+
+- Python for Data Science
+- NumPy
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+- Statistics
+- Probability
+- Data Visualization
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 📈 Data Analytics & Business Intelligence
+
+- SQL
+- MySQL
+- PostgreSQL
+- Microsoft Excel
+- Power BI
+- Tableau
+- Data Visualization
+- Dashboard Development
+- Business Analytics
+- Data Storytelling
+
+## 🤖 Machine Learning
+
+- Supervised Learning
+- Unsupervised Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
+- Machine Learning Algorithms
+
+## 🧠 Deep Learning
+
+- Neural Networks
+- Deep Learning Fundamentals
+- Model Training
+- Optimization
+
+## 🧬 Generative AI
+
+- Large Language Models
+- Prompt Engineering
+- Retrieval-Augmented Generation
+- Embeddings
+- Vector Databases
+- LangChain
+- LangGraph
+- AI Agents
+- Agentic AI
+- LLM Applications
+
+## ⚙️ Backend & Software Development
+
+- FastAPI
+- Django
+- REST APIs
+- Git
+- GitHub
+- Linux
+- PostgreSQL
+- Deployment
+
+## 🧩 Programming & Problem Solving
+
+- Python
+- C++
+- Java
+- Data Structures
+- Algorithms
+- LeetCode
+- Problem Solving
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 🐍 Programming & Data Science
+## 🐍 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 Data Science & Analytics
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 Machine Learning & AI
+---
+
+## 📈 Business Intelligence & Visualization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 🤖 Machine Learning & Deep Learning
 
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 🧠 Generative AI & Agentic AI
+---
+
+## 🧠 Generative AI & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-### ⚙️ Backend & Development
+---
+
+## ⚙️ Backend & Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🗄️ Databases
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🗄️ Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🐧 Tools & Environment
+---
+
+## 🐧 Tools & Environment
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 Generative AI
+## 📧 Spam Email Pattern Analysis
 
-Building practical applications using **LLMs, RAG, embeddings, vector databases, LangChain, and LangGraph**.
+Exploratory analysis of spam email data to identify patterns and understand characteristics of spam messages.
 
-### 🧠 Machine Learning
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
-Working on end-to-end ML workflows:
-
-**Data → EDA → Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment**
-
-### 🤝 Agentic AI
-
-Exploring intelligent workflows using:
-
-**LLMs → Agents → Tools → Routing → Memory → Persistence → Evaluation**
-
-### 📊 Data Science
-
-Working with real-world datasets to perform:
-
-**Data Cleaning → EDA → Visualization → Statistical Analysis → Insights**
-
-> 🚧 More projects are currently being developed and will be added here.
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/spam-email-pattern-analysis)
 
 ---
 
-## 🧩 Data Structures & Algorithms
+## 📊 EDA & Statistical Analysis
 
-I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and programming skills.
+A data analysis project focused on **Exploratory Data Analysis, statistical analysis, relationships between variables, and data visualization**.
+
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Statistics
+
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/eda-statistics-project)
+
+---
+
+## 🪪 Aadhaar Dashboard
+
+A data-focused project exploring and visualizing Aadhaar-related datasets to extract meaningful insights.
+
+**Technologies:** Python • Data Analysis • Jupyter Notebook
+
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/aadhar-dashboard)
+
+---
+
+# 🧩 Data Structures & Algorithms
+
+I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving, logical thinking, and programming skills.
+
+### 📚 Topics
 
 - Arrays & Strings
+- Hashing
 - Linked Lists
 - Stacks & Queues
-- Hashing
 - Recursion
 - Searching & Sorting
 - Trees & Graphs
 - Dynamic Programming
-- Problem Solving on LeetCode
+- Algorithms
+- Problem Solving
+- LeetCode
+
+### 💻 DSA & LeetCode Repository
+
+A growing collection of my **LeetCode questions and solutions**, maintained while practicing Data Structures & Algorithms.
+
+🔗 **[View My DSA Repository](https://github.com/mrarjundarwade1710-commits/DSA)**
+
+> 📌 This repository contains my ongoing DSA practice and coding solutions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrarjundarwade&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarjundarwade&layout=compact&theme=radical&hide_border=false&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrarjundarwade&theme=radical&hide_border=false" />
-</p>
-
----
-
-## 🎯 My Learning Philosophy
+# 🧬 Generative AI & Agentic AI Journey
 
 ```text
-        LEARN
-          ↓
-      UNDERSTAND
-          ↓
-      IMPLEMENT
-          ↓
-        BUILD
-          ↓
-       DEPLOY
-          ↓
-       EXPLAIN
-          ↓
-       IMPROVE
+                    Large Language Models
+                            │
+                            ▼
+                    Prompt Engineering
+                            │
+                            ▼
+                        Embeddings
+                            │
+                            ▼
+                    Vector Databases
+                            │
+                            ▼
+                           RAG
+                            │
+                            ▼
+                       LangChain
+                            │
+                            ▼
+                       LangGraph
+                            │
+                            ▼
+                        AI Agents
+                            │
+                            ▼
+                       Agentic AI
+                            │
+                            ▼
+                Production AI Applications

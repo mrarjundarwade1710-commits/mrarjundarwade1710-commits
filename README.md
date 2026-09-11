@@ -1,179 +1,186 @@
-# 👋 Hi, I'm Arjun Darwade
+# 💫 About Me:
 
-### 🚀 Aspiring Data Scientist | ML Engineer | AI Engineer | Generative AI Engineer
+🎓 Computer Engineering student at **MIT Academy of Engineering (MITAOE)**<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Artificial+Intelligence+%7C+Generative+AI;LLMs+%7C+RAG+%7C+AI+Agents;DSA+%7C+Problem+Solving;Building+AI+Applications+End-to-End" alt="Typing SVG" />
-</p>
+🤖 Aspiring **Data Scientist | Machine Learning Engineer | AI Engineer | Generative AI Engineer**<br><br>
 
-<p align="center">
-  <a href="https://github.com/mrarjundarwade1710-commits">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/arjun-darwade-85197a33b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mrarjundarwade1710@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+🐍 Currently building strong skills in **Python, C++, Java, Data Science, Data Analytics, Machine Learning, Deep Learning, SQL, and DSA**<br><br>
 
----
+📊 Exploring **EDA, Statistics, Data Visualization, Power BI, Tableau, and Microsoft Excel** for data-driven analysis and business insights.<br><br>
 
-# 🧑‍💻 About Me
+🧠 Exploring **Generative AI, LLMs, RAG, LangChain, LangGraph, AI Agents, Agentic AI, Embeddings, and Vector Databases**<br><br>
 
-🎓 **B.Tech Computer Engineering** student at **MIT Academy of Engineering (MITAOE)**.
+🚀 Building practical projects to understand how **Data, Machine Learning, and AI systems** work in real-world applications.<br><br>
 
-I am building my career toward:
+⚙️ Interested in developing **end-to-end AI applications** using Python, FastAPI, Django, APIs, databases, and modern AI frameworks.<br><br>
 
-- 📊 Data Scientist
-- 🤖 Machine Learning Engineer
-- 🧠 AI Engineer
-- ✨ Generative AI Engineer
-- 🔗 AI Application Developer
+🎯 Focused on becoming an **industry-ready AI/ML professional** through continuous learning, problem-solving, projects, DSA, and hands-on implementation.<br>
 
-### 💡 What I'm Working On
 
-- 🐍 Python & Advanced Python
-- 📊 Data Science & Data Analytics
-- 📈 Statistics & Exploratory Data Analysis
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- ✨ Generative AI
-- 🦜 LLM Applications
-- 🔎 RAG Systems
-- 🔗 LangChain & LangGraph
-- 🤖 AI Agents & Agentic AI
-- 🧮 DSA & Problem Solving
-- 🗄️ SQL & Databases
-- 🚀 FastAPI & Backend Development
-- ☁️ Deployment & Production AI Applications
+# 🌐 Socials:
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrarjundarwade1710-commits)
 
-# 🛠️ Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-darwade-85197a33b/)
 
-## 💻 Programming
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrarjundarwade1710@gmail.com)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
-</p>
 
-**Python • C++ • Java • SQL**
+# 💻 Tech Stack:
 
----
+## 🐍 Programming & Core
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## 📊 Data Science & Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter" />
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**NumPy • Pandas • Matplotlib • Seaborn • Jupyter Notebook**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ## 📈 Business Intelligence
 
-<p>
-<img src="https://skillicons.dev/icons?i=excel" />
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Power BI • Tableau • Microsoft Excel**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
----
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 ## 🤖 Machine Learning & Deep Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
-</p>
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Scikit-learn • TensorFlow • PyTorch**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-## ✨ Generative AI & LLMs
 
-<p>
-<img src="https://skillicons.dev/icons?i=langchain,huggingface" />
-</p>
+## 🧠 Generative AI & LLMs
 
-**LLMs • LangChain • LangGraph • RAG • Prompt Engineering • Embeddings • Vector Databases • AI Agents • Agentic AI • Hugging Face**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 
----
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
+
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF4081?style=for-the-badge)
+
 
 ## 🌐 Backend & Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,git,github" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**FastAPI • Django • REST APIs • Git • GitHub**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
 
 ## 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**MySQL • PostgreSQL • SQL**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
 
-## ⚙️ Tools & Environment
+## ⚙️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,vscode" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Linux • VS Code • Git • GitHub**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 🚀 My Learning Journey
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+# 🚀 Featured Projects:
+
+### 📧 Spam Email Pattern Analysis
+
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/spam-email-pattern-analysis)
+
+Data analysis project focused on identifying patterns and insights from spam email data.
+
+**Tech:** Python • Pandas • EDA • Statistics • Data Visualization
+
+
+### 📊 EDA & Statistics Project
+
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/eda-statistics-project)
+
+Exploratory Data Analysis and statistical investigation using Python.
+
+**Tech:** Python • NumPy • Pandas • Matplotlib • Seaborn • Statistics
+
+
+### 🪪 Aadhaar Dashboard
+
+🔗 [View Project](https://github.com/mrarjundarwade1710-commits/aadhar-dashboard)
+
+Interactive data dashboard for analyzing and visualizing Aadhaar-related data.
+
+**Tech:** Data Analytics • Visualization • Dashboard • Power BI
+
+
+### 🧩 DSA — LeetCode Solutions
+
+🔗 [View Repository](https://github.com/mrarjundarwade1710-commits/DSA)
+
+Collection of coding problems and LeetCode solutions for improving **Data Structures & Algorithms and interview problem-solving skills**.
+
+**Language:** Python
+
+
+# 🧠 My AI / Data Science Journey
 
 ```text
-                    🚀 AI / DATA SCIENCE JOURNEY
-
-                              │
-                              ▼
-                    🐍 Python Programming
-                              │
-                              ▼
-                     🗄️ SQL & Databases
-                              │
-                              ▼
-                  📊 Statistics & Mathematics
-                              │
-                              ▼
-                    🔎 EDA & Data Analysis
-                              │
-                              ▼
-                   🤖 Machine Learning
-                              │
-                              ▼
-                    🧠 Deep Learning
-                              │
-                              ▼
-                     ✨ Generative AI
-                              │
-                              ▼
-                       🔗 LangChain
-                              │
-                              ▼
-                       🕸️ LangGraph
-                              │
-                              ▼
-                       🔎 RAG Systems
-                              │
-                              ▼
-                      🤖 AI Agents
-                              │
-                              ▼
-                     🧠 Agentic AI
-                              │
-                              ▼
-                   🚀 Production AI Apps
+Python
+   ↓
+SQL & Databases
+   ↓
+Statistics & Mathematics
+   ↓
+EDA & Data Analytics
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+LLMs
+   ↓
+RAG
+   ↓
+LangChain
+   ↓
+LangGraph
+   ↓
+AI Agents
+   ↓
+Agentic AI
+   ↓
+FastAPI / Backend
+   ↓
+Deployment
+   ↓
+🚀 Production AI Applications

@@ -2,38 +2,49 @@
 
 ### 🚀 Aspiring Data Scientist | ML Engineer | AI Engineer | Generative AI Engineer
 
+<p align="left">
+  <a href="https://github.com/mrarjundarwade">
+    <img src="https://komarev.com/ghpvc/?username=mrarjundarwade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/mrarjundarwade">
+    <img src="https://img.shields.io/github/followers/mrarjundarwade?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+</p>
+
 ---
 
-# 💫 About Me
+## 💫 About Me
 
 🎓 Computer Engineering student at **MIT Academy of Engineering (MITAOE)**
 
 🤖 Aspiring **Data Scientist | Machine Learning Engineer | AI Engineer | Generative AI Engineer**
 
-🐍 Building strong foundations in **Python, Data Science, Machine Learning, Deep Learning, SQL, and DSA**
+🐍 Building strong foundations in **Python, Data Science, Machine Learning, Deep Learning, SQL, and Data Structures & Algorithms**
 
 🧠 Exploring **Generative AI, LLMs, RAG, LangChain, LangGraph, AI Agents, Agentic AI, Embeddings, and Vector Databases**
 
-⚙️ Interested in building **AI-powered applications, intelligent agents, and production-ready ML systems**
+📊 Interested in **data analysis, machine learning, intelligent systems, and real-world AI applications**
 
-📊 Practicing **Data Analysis, EDA, Statistics, Machine Learning, and real-world problem solving**
+⚙️ Focused on learning how to build **end-to-end AI/ML applications**, from data and models to APIs and deployment
 
-🧩 Regularly improving my **Data Structures & Algorithms** and problem-solving skills
+🧩 Regularly practicing **DSA and problem solving** to strengthen my programming fundamentals
 
-🚀 I believe in **Learn → Understand → Implement → Build → Deploy**
+🚀 I believe in:
 
-🎯 My goal is to become an **industry-ready AI/ML professional** by building practical projects and continuously improving my technical skills.
+**Learn → Understand → Implement → Build → Deploy → Explain**
+
+🎯 My goal is to become an **industry-ready AI/ML professional** by continuously learning, building practical projects, and solving real-world problems.
 
 ---
 
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 - 🐍 Python for Data Science & AI
 - 📊 Data Analysis & Exploratory Data Analysis
 - 📈 Statistics & Probability
 - 🤖 Machine Learning
 - 🧠 Deep Learning
-- 🧬 Generative AI & LLM Applications
+- 🧬 Generative AI & Large Language Models
 - 🔗 LangChain & LangGraph
 - 🤝 AI Agents & Agentic AI
 - 📚 RAG & Prompt Engineering
@@ -45,20 +56,21 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🐍 Programming & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Machine Learning & AI
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -66,7 +78,7 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### ⚙️ Backend & Development
@@ -88,73 +100,76 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 Generative AI Applications
+### 🤖 Generative AI
 
-Building applications using **LLMs, RAG, embeddings, vector databases, LangChain, and LangGraph**.
+Building practical applications using **LLMs, RAG, embeddings, vector databases, LangChain, and LangGraph**.
 
-### 🧠 Machine Learning Projects
+### 🧠 Machine Learning
 
-Developing end-to-end ML projects covering:
+Working on end-to-end ML workflows:
 
-**Data Collection → EDA → Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment**
+**Data → EDA → Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment**
 
-### 🤝 Agentic AI Projects
+### 🤝 Agentic AI
 
 Exploring intelligent workflows using:
 
 **LLMs → Agents → Tools → Routing → Memory → Persistence → Evaluation**
 
-### 📊 Data Science Projects
+### 📊 Data Science
 
 Working with real-world datasets to perform:
 
-**EDA → Data Cleaning → Visualization → Statistical Analysis → Insights**
+**Data Cleaning → EDA → Visualization → Statistical Analysis → Insights**
 
-> 🚧 More projects are being built and will be added here.
-
----
-
-# 🧩 Problem Solving
-
-I regularly practice **Data Structures & Algorithms** to improve my problem-solving and coding skills.
-
-- 🔹 Arrays & Strings
-- 🔹 Linked Lists
-- 🔹 Stacks & Queues
-- 🔹 Hashing
-- 🔹 Recursion
-- 🔹 Searching & Sorting
-- 🔹 Trees & Graphs
-- 🔹 Dynamic Programming
-- 🔹 Problem Solving on LeetCode
+> 🚧 More projects are currently being developed and will be added here.
 
 ---
 
-# 📊 GitHub Stats
+## 🧩 Data Structures & Algorithms
 
-![](https://github-readme-stats.shion.dev/api?username=mrarjundarwade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and programming skills.
 
-![](https://streak-stats.demolab.com/?user=mrarjundarwade&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mrarjundarwade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Arrays & Strings
+- Linked Lists
+- Stacks & Queues
+- Hashing
+- Recursion
+- Searching & Sorting
+- Trees & Graphs
+- Dynamic Programming
+- Problem Solving on LeetCode
 
 ---
 
-# 🎯 My Learning Philosophy
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mrarjundarwade&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrarjundarwade&layout=compact&theme=radical&hide_border=false&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mrarjundarwade&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 🎯 My Learning Philosophy
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Implement
-  ↓
-Build
-  ↓
-Deploy
-  ↓
-Explain
-  ↓
-Improve
+        LEARN
+          ↓
+      UNDERSTAND
+          ↓
+      IMPLEMENT
+          ↓
+        BUILD
+          ↓
+       DEPLOY
+          ↓
+       EXPLAIN
+          ↓
+       IMPROVE
